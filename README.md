@@ -50,10 +50,10 @@
 
 Developed a Java application using JDBC and MySQL to manage banking transactions and account data.
 
-### 👨‍💼 Employee Management System – REST API
+### 👨‍💼 Meaty Matters – Food Ordering Website (UI)
 
-Built a CRUD-based RESTful API using Spring Boot.
-Integrated MySQL with Spring Data JPA & Hibernate and tested endpoints using Postman.
+Built a static food ordering web interface using HTML and CSS.
+Structured page with proper semantic HTML and styled using modern CSS techniques.
 
 ### 🏥 Patient Survey Form
 
